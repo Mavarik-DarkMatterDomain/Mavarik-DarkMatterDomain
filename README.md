@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate modpack developer and tech enthus
 
 ## 🔥 Latest Projects
 
-- [Dark Matter Domain](https://github.com/Mavarik-DarkMatterDomain/DarkMatterDomain)
+- [Dark Matter Domain Modpack](https://www.curseforge.com/minecraft/modpacks/dark-matter-domain)
 
 Thank you for visiting my profile! Feel free to reach out with any questions or suggestions!
 
