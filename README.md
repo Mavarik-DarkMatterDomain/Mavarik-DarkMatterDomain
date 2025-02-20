@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Mavarik 👋
 
-<!--
-**Mavarik-DarkMatterDomain/Mavarik-DarkMatterDomain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate modpack developer and tech enthusiast who loves minecraft!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Currently working on Dark Matter Domain, my modpack!
+- 🌱 Always eager to learn and improve my skills.
+- 💬 Ask me about anything related to my modpack!
+- 📫 How to reach me: [MavarikGaming@protonmail.com](mailto:mavarikgaming@protonmail.com)
+- ⚡ Fun fact: I love stargazing and exploring the mysteries of the universe.
+
+## 📈 GitHub Stats
+
+![Mavarik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mavarik-DarkMatterDomain&show_icons=true&theme=dark)
+
+## 🏆 Achievements
+
+- Created my first modpack recently and am looking forward to learning things like Kube.js and JavaScript!
+
+## 🌐 Connect with Me
+
+- Dark Matter Domain Discord link: [Dark Matter Discord](https://discord.gg/FNpVsHu7ZP)
+
+## 🔥 Latest Projects
+
+- [Dark Matter Domain](https://github.com/Mavarik-DarkMatterDomain/DarkMatterDomain)
+
+Thank you for visiting my profile! Feel free to reach out with any questions or suggestions!
+
+[Visit my GitHub Profile](https://github.com/Mavarik-DarkMatterDomain)
